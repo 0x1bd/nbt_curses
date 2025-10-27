@@ -3,6 +3,8 @@ Terminal based NBT Explorer/Editor
 
 View and edit minecraft NBT files directly in your terminal
 
+![preview](docs/preview.png)
+
 ## Features
 - Navigate NBT files easily
 - Edit/Add/Delete tags
